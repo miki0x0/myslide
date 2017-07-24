@@ -32,7 +32,7 @@
 
 ---
 
----?image=システムイメージ図.png&size=auto 90%
+?image=システムイメージ図.png&size=auto 90%
 
 ---
 
